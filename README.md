@@ -25,13 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/krissna01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/krissna01" height="30" width="40" /></a>
-<a href="https://twitter.com/@krissna01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krissna01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-kr-saw-9082b9196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-kr-saw-9082b9196/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/krsnna.21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/krsnna.21/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://krishnasaw.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://krishnasaw.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@krishnakrsaw8340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krishnakrsaw8340" height="30" width="40" /></a>
+<a href="https://dev.to/krissna01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krissna01" height="30" width="40" /></a>
+<a href="https://twitter.com/krissna01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krissna01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna kr. saw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna kr. saw" height="30" width="40" /></a>
+<a href="https://instagram.com/krsnna.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krsnna.21" height="30" width="40" /></a>
+<a href="https://hashnode.com/krissna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="krissna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/krishnakrsaw8340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishnakrsaw8340" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krrishna" height="30" width="40" /></a>
 </p>
 
