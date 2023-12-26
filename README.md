@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasaw8340&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasaw8340" /> </p>
 
-- 🔭 I’m currently working on **Backend project (An E-commerce app)**
-
-- 🌱 I’m currently learning **Express.js, Rest API etc.**
-
-- 👨‍💻 All of my projects are available at [https://krishnasaw8340.github.io/Portfolio-website/](https://krishnasaw8340.github.io/Portfolio-website/)
-
-- 📝 I regularly write articles on [https://krishnasaw.hashnode.dev/](https://krishnasaw.hashnode.dev/)
+- 🔭 I’m currently working on **Backend Technologies**
 
 - 💬 Ask me about **react, js, css**
 
 - 📫 How to reach me **krishnakrsaw8340@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14AEoNOn4T6c-1LLaNEnks7A6Upu565FR/view?usp=sharing](https://drive.google.com/file/d/14AEoNOn4T6c-1LLaNEnks7A6Upu565FR/view?usp=sharing)
 
 - ⚡ Fun fact **Sarcastic**
 
